@@ -1,0 +1,10 @@
+[
+  { "sku": "WH-001", "expectedQty": 100, "actualQty": 98, "location": "Warehouse A", "lastCounted": "2026-06-01" },
+  { "sku": "WH-002", "expectedQty": 50, "actualQty": 52, "location": "Warehouse A", "lastCounted": "2026-06-15" },
+  { "sku": "RT-001", "expectedQty": 200, "actualQty": 180, "location": "Retail B", "lastCounted": "2026-05-20" },
+  { "sku": "RT-002", "expectedQty": 30, "actualQty": 30, "location": "Retail B", "lastCounted": "2026-07-01" },
+  { "sku": "DC-001", "expectedQty": 500, "actualQty": 420, "location": "DC North", "lastCounted": "2026-04-10" },
+  { "sku": "DC-002", "expectedQty": 0, "actualQty": 12, "location": "DC North", "lastCounted": "2026-03-05" },
+  { "sku": "WH-003", "expectedQty": 75, "actualQty": 62, "location": "Warehouse A", "lastCounted": "2026-05-01" },
+  { "sku": "RT-003", "expectedQty": 150, "actualQty": 151, "location": "Retail B", "lastCounted": "2026-07-10" }
+]
