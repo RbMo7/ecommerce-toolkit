@@ -190,3 +190,4 @@ export function batchGenerateSkus(
 ): string[] {
   return items.map((item) => generateSku(spec, item.category, item.attributes));
 }
+// Luhn checksum: strip non-digits before computation
