@@ -1,0 +1,46 @@
+[
+  {
+    "orderId": "ORD-1001", "status": "delivered", "sku": "SKU-A001", "quantity": 2,
+    "createdAt": "2026-07-01T08:00:00Z", "priority": "standard",
+    "statusChanges": [
+      {"from": "pending", "to": "confirmed", "timestamp": "2026-07-01T08:05:00Z"},
+      {"from": "confirmed", "to": "picking", "timestamp": "2026-07-01T09:00:00Z"},
+      {"from": "picking", "to": "packed", "timestamp": "2026-07-01T09:45:00Z"},
+      {"from": "packed", "to": "shipped", "timestamp": "2026-07-01T12:00:00Z"},
+      {"from": "shipped", "to": "delivered", "timestamp": "2026-07-02T14:00:00Z"}
+    ]
+  },
+  {
+    "orderId": "ORD-1002", "status": "picking", "sku": "SKU-B002", "quantity": 1,
+    "createdAt": "2026-07-10T10:00:00Z", "priority": "express",
+    "statusChanges": [
+      {"from": "pending", "to": "confirmed", "timestamp": "2026-07-10T10:10:00Z"},
+      {"from": "confirmed", "to": "picking", "timestamp": "2026-07-10T11:00:00Z"}
+    ]
+  },
+  {
+    "orderId": "ORD-1003", "status": "pending", "sku": "SKU-C003", "quantity": 5,
+    "createdAt": "2026-07-11T06:00:00Z", "priority": "same-day",
+    "statusChanges": []
+  },
+  {
+    "orderId": "ORD-1004", "status": "packed", "sku": "SKU-D004", "quantity": 3,
+    "createdAt": "2026-07-09T09:00:00Z", "priority": "standard",
+    "statusChanges": [
+      {"from": "pending", "to": "confirmed", "timestamp": "2026-07-09T09:05:00Z"},
+      {"from": "confirmed", "to": "picking", "timestamp": "2026-07-09T10:00:00Z"},
+      {"from": "picking", "to": "packed", "timestamp": "2026-07-09T11:30:00Z"}
+    ]
+  },
+  {
+    "orderId": "ORD-1005", "status": "delivered", "sku": "SKU-E005", "quantity": 1,
+    "createdAt": "2026-06-28T14:00:00Z", "priority": "express",
+    "statusChanges": [
+      {"from": "pending", "to": "confirmed", "timestamp": "2026-06-28T14:05:00Z"},
+      {"from": "confirmed", "to": "picking", "timestamp": "2026-06-28T14:30:00Z"},
+      {"from": "picking", "to": "packed", "timestamp": "2026-06-28T15:00:00Z"},
+      {"from": "packed", "to": "shipped", "timestamp": "2026-06-28T16:00:00Z"},
+      {"from": "shipped", "to": "delivered", "timestamp": "2026-06-29T10:00:00Z"}
+    ]
+  }
+]
