@@ -1,0 +1,12 @@
+[
+  {"id": "R001", "productId": "PROD-WL-001", "rating": 5, "title": "Absolutely love it!", "body": "This wireless charger is amazing. Fast charging and looks great on my desk.", "date": "2026-07-01", "verifiedPurchase": true},
+  {"id": "R002", "productId": "PROD-WL-001", "rating": 4, "title": "Very good charger", "body": "Works well and charges quickly. The cable could be a bit longer though.", "date": "2026-06-28", "verifiedPurchase": true},
+  {"id": "R003", "productId": "PROD-WL-001", "rating": 2, "title": "Stopped working after a week", "body": "The charger stopped working after only a week. Very disappointed with the quality.", "date": "2026-06-25", "verifiedPurchase": true},
+  {"id": "R004", "productId": "PROD-WL-001", "rating": 5, "title": "Perfect for my nightstand", "body": "Compact design and reliable charging. I love the LED indicator.", "date": "2026-06-20", "verifiedPurchase": false},
+  {"id": "R005", "productId": "PROD-WL-001", "rating": 3, "title": "It's ok", "body": "Average product for the price. Works but nothing special.", "date": "2026-06-15", "verifiedPurchase": true},
+  {"id": "R006", "productId": "PROD-WL-001", "rating": 1, "title": "Defective unit", "body": "Received a broken unit. The charging pad was cracked and it wouldn't charge my phone.", "date": "2026-06-10", "verifiedPurchase": true},
+  {"id": "R007", "productId": "PROD-WL-001", "rating": 4, "title": "Great for the price", "body": "Good value wireless charger. Charges my iPhone reliably. Would recommend.", "date": "2026-06-05", "verifiedPurchase": true},
+  {"id": "R008", "productId": "PROD-WL-001", "rating": 5, "title": "Best charger I've owned", "body": "Excellent build quality and super fast charging. The non-slip surface is a nice touch.", "date": "2026-06-01", "verifiedPurchase": false},
+  {"id": "R009", "productId": "PROD-WL-001", "rating": 2, "title": "Overheating issue", "body": "The charger gets very hot during use. I'm concerned about safety.", "date": "2026-05-28", "verifiedPurchase": true},
+  {"id": "R010", "productId": "PROD-WL-001", "rating": 5, "title": "Great purchase", "body": "Fast reliable charging and elegant design. Love the slim profile.", "date": "2026-05-20", "verifiedPurchase": true}
+]
