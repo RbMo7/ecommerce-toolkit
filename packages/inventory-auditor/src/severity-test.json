@@ -1,7 +1,0 @@
-[
-  { "sku": "TEST-001", "expectedQty": 100, "actualQty": 100, "location": "WH-A", "lastCounted": "2026-07-01" },
-  { "sku": "TEST-002", "expectedQty": 100, "actualQty": 98, "location": "WH-A", "lastCounted": "2026-06-01" },
-  { "sku": "TEST-003", "expectedQty": 100, "actualQty": 95, "location": "WH-A", "lastCounted": "2026-06-01" },
-  { "sku": "TEST-004", "expectedQty": 100, "actualQty": 89, "location": "WH-A", "lastCounted": "2026-06-01" },
-  { "sku": "TEST-005", "expectedQty": 100, "actualQty": 75, "location": "WH-A", "lastCounted": "2026-06-01" }
-]
